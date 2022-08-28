@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-I’m Hayden Jeune, a Software Engineer currently building the APIs and infrastructure that underpins machine learning based products at Xero. I love to understand how things work under the hood, broadly interested in all things tech, and in particular, how to build scalable and reliable software systems.
+I’m Hayden Jeune, a Software Engineer currently working on Google Cloud Storage in the SRE team. I was previously a SWE at Xero, building the APIs and infrastructure that underpin machine learning based products. I love to understand how things work under the hood, broadly interested in all things tech, and in particular, how to build scalable and reliable software systems.
 
 If you'd like to get in touch, please feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/haydenjeune/)
+
 
 <!--
 **haydenjeune/haydenjeune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
